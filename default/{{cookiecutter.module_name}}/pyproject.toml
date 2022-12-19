@@ -1,0 +1,8 @@
+[build-system]
+
+[project]
+name = "{{ cookiecutter.package_name }}"
+description = "{{ cookiecutter.description }}"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{ name = "{{ cookiecutter.author_name }}", email = "{{ cookiecutter.author_email }}" }]

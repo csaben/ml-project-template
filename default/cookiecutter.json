@@ -1,9 +1,7 @@
 {
-    "human_readable_name": null,
-    "input_dir": "input",
-    "output_dir": "output",
-    "src_dir": "src",
-    "models_dir": "models",
-    "gitignore_file": ".gitignore",
-    "placeholder_file": ".placeholder"
+	"module_name": "{{ cookiecutter.package_name.replace('-', '') }}",
+	"version": "0.1.0",
+	"author_name": "",
+	"author_email": "",
+	"description": ""
 }
