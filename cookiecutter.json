@@ -1,0 +1,9 @@
+{
+    "project_name": "My ML Project",
+    "input_dir": "input",
+    "output_dir": "output",
+    "src_dir": "src",
+    "models_dir": "models",
+    "gitignore_file": ".gitignore",
+    "placeholder_file": ".placeholder"
+}
