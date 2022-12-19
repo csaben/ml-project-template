@@ -1,6 +1,8 @@
 {
 	"name": null,
 	"module_name": "{{ cookiecutter.name.replace('-', '') }}",
+	"input_dir": "input",
+	"models_dir": "models",
 	"version": "0.1.0",
 	"author_name": "",
 	"author_email": "",
