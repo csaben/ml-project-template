@@ -1,5 +1,5 @@
 {
-	"module_name": "{{ cookiecutter.package_name.replace('-', '') }}",
+	"module_name": "{{ cookiecutter.module_name.replace('-', '') }}",
 	"version": "0.1.0",
 	"author_name": "",
 	"author_email": "",
