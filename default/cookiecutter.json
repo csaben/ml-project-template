@@ -1,5 +1,5 @@
 {
-    "project_name": "My ML Project",
+    "human_readable_name": null,
     "input_dir": "input",
     "output_dir": "output",
     "src_dir": "src",
